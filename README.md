@@ -1,9 +1,9 @@
-h1 IMDB WEB-SCRAPPING
+IMDB WEB-SCRAPPING
 ==========================
 
 This is my srapper imdb page for top250 and genre page (Comedy, Superhero, etc.)
 
-h2 REQUIREMENTS
+REQUIREMENTS
 --------------------------
 * Python (v. 3.6.9)
 * BeautifulSoup (v. 4.2.0)
